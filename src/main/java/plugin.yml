@@ -1,5 +1,5 @@
 name: ArchiTectWeb
-main: main.ArchitectWeb
+main: main.ArchitectWebSpigot
 version: 0.1
 api-version: 1.13
 author: mrbear21
